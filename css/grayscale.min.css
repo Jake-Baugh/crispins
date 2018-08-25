@@ -210,6 +210,9 @@
 
 @media(max-width:550px) {
     
+    .masthead {
+        padding: 10rem 0rem;
+    }
     ul {
         padding:0px;
     }
